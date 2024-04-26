@@ -1,4 +1,4 @@
-# Unlocking the Secrets of Sales with EDA - First Project
+# Unlocking the Secrets of Sales with EDA 
 
 ## Overview
 
